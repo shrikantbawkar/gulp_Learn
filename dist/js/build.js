@@ -1,0 +1,6 @@
+/**
+ * Created by sbawkar on 8/11/2015.
+ */
+console.log("app gulp 1 updated changed on 20 August");
+console.log("app222");
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5qcyIsImFwcDIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUNIQSIsImZpbGUiOiJidWlsZC5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQ3JlYXRlZCBieSBzYmF3a2FyIG9uIDgvMTEvMjAxNS5cbiAqL1xuY29uc29sZS5sb2coXCJhcHAgZ3VscCAxIHVwZGF0ZWQgY2hhbmdlZCBvbiAyMCBBdWd1c3RcIik7IiwiY29uc29sZS5sb2coXCJhcHAyMjJcIik7Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
